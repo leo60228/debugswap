@@ -1,0 +1,4 @@
+[submodule "YamlDotNet"]
+	path = YamlDotNet
+	url = git://github.com/leo60228/YamlDotNet.git
+	branch = netstandard2.0

@@ -1,0 +1,2 @@
+This contains the stripped managed code for Hiveswap Act 2.
+Note that stripping in .NET is the *opposite* of native code. A stripped assembly contains only symbols and no code.
